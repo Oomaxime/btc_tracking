@@ -1,0 +1,14 @@
+{
+  "name": "tp_bitcoins",
+  "version": "1.0.0",
+  "description": "TP éducatif Node.js, POO et API sur le théme du bitcoins",
+  "main": "btc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxime Bidan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
