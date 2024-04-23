@@ -4,6 +4,7 @@
   "description": "TP éducatif Node.js, POO et API sur le théme du bitcoins",
   "main": "btc.js",
   "scripts": {
+    "dev": "nodemon btc.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Maxime Bidan",
